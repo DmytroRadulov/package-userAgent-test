@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "14e4665158e7e91489918194f4135567",
+    "content-hash": "be089f7c36c9837d6f9c176df1e079ee",
     "packages": [
         {
             "name": "brick/math",
@@ -144,12 +144,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/DmytroRadulov/package-interface-test.git",
-                "reference": "fa212fe64b1a7ede3bf4d7d0bf3b828af50c4e16"
+                "reference": "3ddde65fe0f39146d8e8b780d5779d9192531a7e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/DmytroRadulov/package-interface-test/zipball/fa212fe64b1a7ede3bf4d7d0bf3b828af50c4e16",
-                "reference": "fa212fe64b1a7ede3bf4d7d0bf3b828af50c4e16",
+                "url": "https://api.github.com/repos/DmytroRadulov/package-interface-test/zipball/3ddde65fe0f39146d8e8b780d5779d9192531a7e",
+                "reference": "3ddde65fe0f39146d8e8b780d5779d9192531a7e",
                 "shasum": ""
             },
             "require": {
@@ -176,7 +176,7 @@
                 "source": "https://github.com/DmytroRadulov/package-interface-test/tree/master",
                 "issues": "https://github.com/DmytroRadulov/package-interface-test/issues"
             },
-            "time": "2022-11-16T14:07:16+00:00"
+            "time": "2022-11-16T15:27:24+00:00"
         },
         {
             "name": "doctrine/inflector",

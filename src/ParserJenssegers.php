@@ -1,8 +1,9 @@
 <?php
 
-namespace Web\UserAgent\Test;
+namespace Package\UserAgent\Test;
 
 use Jenssegers\Agent\Agent;
+use Package\Interface\Test\UserAgentInterface;
 
 class ParserJenssegers implements UserAgentInterface
 {
