@@ -1,0 +1,30 @@
+{
+  "name": "dmytro/package-user-agent-test",
+  "description": "short",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "DmytroRadulov",
+      "email": "radulovdima1995@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "Package\\UserAgent\\Test\\": "./src"
+    }
+  },
+  "require": {
+    "jenssegers/agent": "^2.6",
+    "guzzlehttp/guzzle": "^7.5",
+    "laravel/framework": "^9.19",
+    "dmytro/package-interface-test": "dev-master"
+  },
+  "repositories": [
+    {
+      "type": "github",
+      "url": "https://github.com/DmytroRadulov/package-interface-test"
+    }
+  ]
+}
