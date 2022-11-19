@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "be089f7c36c9837d6f9c176df1e079ee",
+    "content-hash": "024f650ae7f99f1d8e057899f10be877",
     "packages": [
         {
             "name": "brick/math",
@@ -162,6 +162,7 @@
                     "Package\\Interface\\Test\\": "./src"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -173,8 +174,8 @@
             ],
             "description": "short",
             "support": {
-                "source": "https://github.com/DmytroRadulov/package-interface-test/tree/master",
-                "issues": "https://github.com/DmytroRadulov/package-interface-test/issues"
+                "issues": "https://github.com/DmytroRadulov/package-interface-test/issues",
+                "source": "https://github.com/DmytroRadulov/package-interface-test/tree/master"
             },
             "time": "2022-11-16T15:27:24+00:00"
         },
@@ -1085,12 +1086,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/framework.git",
-                "reference": "761c35d48e1e8d41f47334c9b662409337e744fa"
+                "reference": "6182fdbfec13acb531a9ebb2906950bc07dbb43a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/framework/zipball/761c35d48e1e8d41f47334c9b662409337e744fa",
-                "reference": "761c35d48e1e8d41f47334c9b662409337e744fa",
+                "url": "https://api.github.com/repos/laravel/framework/zipball/6182fdbfec13acb531a9ebb2906950bc07dbb43a",
+                "reference": "6182fdbfec13acb531a9ebb2906950bc07dbb43a",
                 "shasum": ""
             },
             "require": {
@@ -1264,7 +1265,7 @@
                 "issues": "https://github.com/laravel/framework/issues",
                 "source": "https://github.com/laravel/framework"
             },
-            "time": "2022-11-15T19:50:37+00:00"
+            "time": "2022-11-19T18:30:54+00:00"
         },
         {
             "name": "laravel/serializable-closure",
@@ -2830,12 +2831,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/console.git",
-                "reference": "902b69856d640114d5c079fd57e4ce661c559807"
+                "reference": "d415a1e1887aaad801a33c9ad139051c7ca0db7a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/console/zipball/902b69856d640114d5c079fd57e4ce661c559807",
-                "reference": "902b69856d640114d5c079fd57e4ce661c559807",
+                "url": "https://api.github.com/repos/symfony/console/zipball/d415a1e1887aaad801a33c9ad139051c7ca0db7a",
+                "reference": "d415a1e1887aaad801a33c9ad139051c7ca0db7a",
                 "shasum": ""
             },
             "require": {
@@ -2918,7 +2919,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-11-14T10:13:36+00:00"
+            "time": "2022-11-19T17:33:48+00:00"
         },
         {
             "name": "symfony/css-selector",
@@ -3435,12 +3436,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/http-kernel.git",
-                "reference": "f3eeb272a268c931679dc95a33a705f57ee23ce0"
+                "reference": "c742c001467889a61795b8d9abeafd1b266a7bda"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/http-kernel/zipball/f3eeb272a268c931679dc95a33a705f57ee23ce0",
-                "reference": "f3eeb272a268c931679dc95a33a705f57ee23ce0",
+                "url": "https://api.github.com/repos/symfony/http-kernel/zipball/c742c001467889a61795b8d9abeafd1b266a7bda",
+                "reference": "c742c001467889a61795b8d9abeafd1b266a7bda",
                 "shasum": ""
             },
             "require": {
@@ -3538,7 +3539,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-11-14T10:13:36+00:00"
+            "time": "2022-11-19T16:15:51+00:00"
         },
         {
             "name": "symfony/mailer",

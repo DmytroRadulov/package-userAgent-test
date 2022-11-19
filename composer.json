@@ -20,11 +20,5 @@
     "guzzlehttp/guzzle": "^7.5",
     "laravel/framework": "^9.19",
     "dmytro/package-interface-test": "dev-master"
-  },
-  "repositories": [
-    {
-      "type": "github",
-      "url": "https://github.com/DmytroRadulov/package-interface-test"
-    }
-  ]
+  }
 }
