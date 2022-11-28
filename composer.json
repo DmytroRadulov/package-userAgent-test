@@ -19,6 +19,6 @@
     "jenssegers/agent": "^2.6",
     "guzzlehttp/guzzle": "^7.5",
     "laravel/framework": "^9.19",
-    "dmytro/package-interface-test": "dev-master"
+    "dmytro/package-interface-test": "^1.0"
   }
 }

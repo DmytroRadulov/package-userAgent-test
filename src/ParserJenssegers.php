@@ -8,9 +8,6 @@ use Package\Interface\Test\UserAgentInterface;
 class ParserJenssegers implements UserAgentInterface
 {
     protected $_data;
-    /*
-     *
-     */
 
     public function __construct()
     {
